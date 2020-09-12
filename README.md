@@ -14,6 +14,6 @@ Flask, MongoDB, Bootstrap, JavaScript.
 ## 
 ![Dashboard](images/dashboard.png)
 ## 
-![Profile](images/personal_details.png) # user-login
-# user-login
+![Profile](images/personal_details.png)  
+
 
